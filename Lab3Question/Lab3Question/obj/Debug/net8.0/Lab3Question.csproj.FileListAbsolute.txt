@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\C#\Lab3Question\Lab3Question\bin\Debug\net8.0\Lab3Question.exe
+C:\Users\ACER\source\repos\C#\Lab3Question\Lab3Question\bin\Debug\net8.0\Lab3Question.deps.json
+C:\Users\ACER\source\repos\C#\Lab3Question\Lab3Question\bin\Debug\net8.0\Lab3Question.runtimeconfig.json
+C:\Users\ACER\source\repos\C#\Lab3Question\Lab3Question\bin\Debug\net8.0\Lab3Question.dll
+C:\Users\ACER\source\repos\C#\Lab3Question\Lab3Question\bin\Debug\net8.0\Lab3Question.pdb
+C:\Users\ACER\source\repos\C#\Lab3Question\Lab3Question\obj\Debug\net8.0\Lab3Question.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\C#\Lab3Question\Lab3Question\obj\Debug\net8.0\Lab3Question.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\C#\Lab3Question\Lab3Question\obj\Debug\net8.0\Lab3Question.AssemblyInfo.cs
+C:\Users\ACER\source\repos\C#\Lab3Question\Lab3Question\obj\Debug\net8.0\Lab3Question.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\C#\Lab3Question\Lab3Question\obj\Debug\net8.0\Lab3Question.dll
+C:\Users\ACER\source\repos\C#\Lab3Question\Lab3Question\obj\Debug\net8.0\refint\Lab3Question.dll
+C:\Users\ACER\source\repos\C#\Lab3Question\Lab3Question\obj\Debug\net8.0\Lab3Question.pdb
+C:\Users\ACER\source\repos\C#\Lab3Question\Lab3Question\obj\Debug\net8.0\Lab3Question.genruntimeconfig.cache
+C:\Users\ACER\source\repos\C#\Lab3Question\Lab3Question\obj\Debug\net8.0\ref\Lab3Question.dll
